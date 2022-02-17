@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Assignment2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div id="page-content">
+        <div class="header">
+            <h1>Booking Assignment</h1>
+            <p>An Assignment made for CPIT-405</p>
+            <ul>
+                <li><a href="index.html" class="active">Home/Landing page</a></li>
+                <li><a href="index-1.html">Search for images and filter results</a></li>
+                <li><a href="index-2.html">Submit/upload a photo</a></li>
+            </ul>
+        </div>
+
+        <div id="main-content">
+            <div class="header">
+                <h2>Explore Saudi Arabia</h2>
+                <p>
+                    Family-Friendly Trips, relaxation, and tranquillity are just a few reasons why travelers enjoy Saudi Arabia.
+                </p>
+                <div class="content">
+                    <br>
+                    <pre>             Jeddah                             Makkah                               Madina</pre>
+                    <a
+                        href="https://www.booking.com/searchresults.ar.html?label=gen173nr-1DCAEoggI46AdIM1gEaMQBiAEBmAEBuAEHyAEP2AED6AEBiAIBqAIDuAKZhrqQBsACAdICJDQ0Yjc1Y2Q4LTljZTYtNDkwYi1iMjI1LTNkOTMzOGQzNTA0NNgCBOACAQ;sid=cef3b18986f8e3ec47c7cceae2f4f0f2;dest_id=-3096108;dest_type=city&">
+                        <img alt="Jeddah"
+                            src="https://cf.bstatic.com/xdata/images/city/square250/688581.webp?k=711dd2c765429c60278692d1b68316c214efd7cc47a706e300e8e7635301c038&o="
+                            width="150" height="249">
+                    </a>
+
+                    <a
+                        href="https://www.booking.com/searchresults.ar.html?label=gen173nr-1DCAEoggI46AdIM1gEaMQBiAEBmAEBuAEHyAEP2AED6AEBiAIBqAIDuAKZhrqQBsACAdICJDQ0Yjc1Y2Q4LTljZTYtNDkwYi1iMjI1LTNkOTMzOGQzNTA0NNgCBOACAQ;sid=cef3b18986f8e3ec47c7cceae2f4f0f2;dest_id=-3096949;dest_type=city&">
+                        <img alt="Makkah"
+                            src="https://cf.bstatic.com/xdata/images/city/square250/688591.webp?k=9a550fedccb750cfa3f2e8eaf507287d4007f21def68e6566cc00b200946e876&o="
+                            width="150" height="249">
+                    </a>
+                    <a
+                        href="https://www.booking.com/searchresults.ar.html?label=gen173nr-1DCAEoggI46AdIM1gEaMQBiAEBmAEBuAEHyAEP2AED6AEBiAIBqAIDuAKZhrqQBsACAdICJDQ0Yjc1Y2Q4LTljZTYtNDkwYi1iMjI1LTNkOTMzOGQzNTA0NNgCBOACAQ;sid=cef3b18986f8e3ec47c7cceae2f4f0f2;dest_id=-3092186;dest_type=city&">
+                        <img alt="Cabins"
+                            src="https://cf.bstatic.com/xdata/images/city/square250/688567.webp?k=8594cea296798ade4b409b25dfdc7287c3b8db5f3006b0c9c89df723c90a0822&o="
+                            width="150" height="249">
+                    </a>
+
+                </div>
+
+            </div>
+            <h2> Browse by property type </h2>
+            <pre>              Hotel                                  Villas                               Cabins</pre>
+            <div class="content">
+                <a
+                    href="https://www.booking.com/hotel/index.en-us.html?aid=1541467;label=888;sid=cef3b18986f8e3ec47c7cceae2f4f0f2">
+                    <img alt="Hotels"
+                        src="https://cf.bstatic.com/xdata/images/xphoto/square300/57584488.webp?k=bf724e4e9b9b75480bbe7fc675460a089ba6414fe4693b83ea3fdd8e938832a6&o="
+                        width="150" height="249">
+                </a>
+
+                <a
+                    href="https://www.booking.com/villas/index.en-us.html?aid=1541467;label=888;sid=cef3b18986f8e3ec47c7cceae2f4f0f2;from_booking_home_promotion=1&">
+                    <img alt="Villas"
+                        src="https://cf.bstatic.com/static/img/theme-index/carousel_320x240/card-image-villas_300/dd0d7f8202676306a661aa4f0cf1ffab31286211.jpg"
+                        width="150" height="249">
+                </a>
+                <a
+                    href="https://www.booking.com/chalet/index.en-us.html?aid=1541467;label=888;sid=cef3b18986f8e3ec47c7cceae2f4f0f2;from_booking_home_promotion=1&">
+                    <img alt="Cabins"
+                        src="https://cf.bstatic.com/static/img/theme-index/carousel_320x240/card-image-chalet_300/8ee014fcc493cb3334e25893a1dee8c6d36ed0ba.jpg"
+                        width="150" height="249">
+                </a>
+
+            </div>
+
+            <div id="read-more">
+                <a href="https://www.booking.com/">Read More</a>
+            </div>
+
+            <div class="footer">
+                <p title="Just to make a similar web as a practice">by clicking on those pictures it will send you to
+                    booking.com</p>
+            </div>
+
+        </div>
+    </div>
+</body>
+
+</html>
